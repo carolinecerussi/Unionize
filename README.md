@@ -8,6 +8,10 @@
 
 -https://jsonplaceholder.typicode.com/posts- learn how to fetch these posts into our React application, add new posts, and finally delete a specific post with Axios.
 
+- "HTML & CSS Design and Build Strategies", By Jon Duckett
+- "Javascript & JQUERY Interactive Front End Web Development" by Jon Duckett
+
+
 
 ## API References :
 *Google Map  places API - used for locating local union resources near specific area.  (https://developers.google.com/maps/documentation/javascript/places)
@@ -26,6 +30,12 @@
 *9:00 - After doing more research to better refine my idea, I began to prep what I'd like my MVP outline to look like
 *11:00 - After  reading API sources and better planning out functionality - start to do more reading to figure out which  language would be best utilized 
 *3:00-  Finish proposal sheet and continue research and videos on react using Axios for grabbing APIs 
+
+#### Friday 09-23-22 : 
+- 8:00 : Dove into planning/ whiteboarding a layout of navigation for website design
+- 9:00 : Researched <using HTML & CSS / JAVASCRIPt books by Jon Duckett> and looked up how to successfully implement javascript and css effects
+- 10:00 : Continued research and practice using more complex button and navigation design css techniques
+-11:00: Made folder of downloaded fonts for website homepage and subcategories.
 
 
 ### Making API calls with REACT using Fetch and Axios
